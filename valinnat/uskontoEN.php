@@ -87,7 +87,7 @@ body {
 
 let viimo;
 
-viimo = Math.floor( ( Math.random ( ) *9 ));
+viimo = Math.floor( ( Math.random ( ) *4 ));
 
 switch (viimo) {
   case 0:
